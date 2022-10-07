@@ -1,2 +1,2 @@
 # briandegger.uk
-website 
+website for art related research. 
